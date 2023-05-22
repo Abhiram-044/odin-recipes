@@ -1,0 +1,23 @@
+img {
+    height: 300px;
+    width: 400px;
+}
+
+body{
+    background-color: rgb(255, 159, 91);
+}
+
+
+.description{
+    font-size: 20px;
+
+}
+
+ul li{
+    font-size: large;
+    font-style: italic;
+}
+
+ol li{
+    font-size: larger;
+}
